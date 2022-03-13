@@ -1,0 +1,1 @@
+# UISwitch-and-UIButton-using-the-code<img width="1440" alt="UISwitch-and-UIButton-using-the code 2" src="https://user-images.githubusercontent.com/84095451/158065082-cf806009-5f82-4dd6-8d04-f674bb99a24a.png">
